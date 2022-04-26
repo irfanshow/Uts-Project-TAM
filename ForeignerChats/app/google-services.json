@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224939180445",
+    "firebase_url": "https://foreignerchats-default-rtdb.firebaseio.com",
+    "project_id": "foreignerchats",
+    "storage_bucket": "foreignerchats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224939180445:android:2a039febb911d85bf36f74",
+        "android_client_info": {
+          "package_name": "com.example.foreignerchats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224939180445-5gv7jsjn7nf91bhnc8ps7rouasq8fnpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foreignerchats",
+            "certificate_hash": "d2aba281472880a0b7fba48d2023b2914f516970"
+          }
+        },
+        {
+          "client_id": "224939180445-b0qslm1pq6mj0am99kvg7m1tg41ei2ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZkyPmNAoxrO4vTbOtGBJ5MGhsP24y_CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224939180445-b0qslm1pq6mj0am99kvg7m1tg41ei2ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
