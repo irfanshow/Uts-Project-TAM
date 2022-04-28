@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Foreigner Chat</string>
+    <string name="username">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="logout">Logout</string>
+    <string name="search_hint">Search…</string>
+    <string name="profile_image_description">Profile image</string>
+    <string name="error_all_fields_required">Semua Harus Diisi</string>
+    <string name="error_password_length">Harus Lebih dari 6 karakter</string>
+    <string name="error_auth_failed">Gagal Login</string>
+    <string name="error_empty_message">Gak Boleh Kosong</string>
+    <string name="error_cannot_register">Udah Kepake Emailnya</string>
+    <string name="error_failed">Failed</string>
+    <string name="error_no_image">Gambar Gaada</string>
+    <string name="upload_in_progress">Sedang Di Upload</string>
+    <string name="no_messages">Ga ada Pesan</string>
+    <string name="chats">Chats</string>
+    <string name="hello_blank_fragment">BLANK</string>
+    <string name="negaramu">Negara</string>
+    <string name="tentangmu">Tentangmu (Misal : Penulis)</string>
+    <string name="fotomu">Fotomu (Link Foto)</string>
+</resources>
